@@ -1,7 +1,9 @@
 # Getting Started
 
 ## Environment
-Python 3.7.13, PyTorch 1.10.0, scikit-learn 1.0.2, fastText 0.9.2, and DGL 0.9.2 are suggested.
+conda create -n DiagFusion python=3.8
+conda activate DiagFusion
+pip install -r requirements.txt
 
 ## Dataset
 D1: https://github.com/CloudWise-OpenSource/GAIA-DataSet
