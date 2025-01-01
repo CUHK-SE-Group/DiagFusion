@@ -1,9 +1,11 @@
 # Getting Started
 
 ## Environment
+```bash
 conda create -n DiagFusion python=3.8
 conda activate DiagFusion
 pip install -r requirements.txt
+```
 
 ## Dataset
 D1: https://github.com/CloudWise-OpenSource/GAIA-DataSet
